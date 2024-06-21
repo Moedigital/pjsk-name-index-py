@@ -1,0 +1,10 @@
+__pycache__ 
+*.pyc 
+*.pyo 
+*~ 
+.tox 
+.coverage 
+.cache 
+nosetests.xml 
+pip-log.txt 
+MANIFEST 
